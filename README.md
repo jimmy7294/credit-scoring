@@ -2,6 +2,7 @@
 
 ## Description
 A scoring model based on various source of data that returns the probability of default. 
+The model predicts future payment behavior of clients from application, demographic and historical credit behavior data.
 
 ## Explanation
 Credit Scoring represents an evaluation of how well a person can pay off and is willing to pay off debt. 
