@@ -13,3 +13,7 @@ If the model returns a high probability of not paying back loan (90%), it must c
 - Exploratory Data Analysis (EDA) describing the insights from the data set.
 - Trained ML model with features engineering pipeline
 
+## Kaggle submissions
+-   [!link] (https://www.kaggle.com/competitions/home-credit-default-risk/submissions)
+-   Username: TuanLamMinh
+-   Score: 0.78405
